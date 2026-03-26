@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Xunzhi He</h1>
+<h1 align="center">Hi 👋, I'm Xunzhi (Karl) He</h1>
 <p align="center">
-MS in Data Science @ Columbia University
+MS in Data Science @ Columbia University <br>
+BS in Computer Science @ UC San Diego
 </p>
 
 ---
