@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Xunzhi He  
 
-<!--
-**Karlhe2002/Karlhe2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science @ Columbia University  
 
-Here are some ideas to get you started:
+🔍 Research Interests  
+- LLM Systems
+- Trustworthy AI
+- Retrieval-Augmented Generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- **Healthcare Policy RAG System** (KPMG Capstone)
+- **BiasFreeBench** — ICLR 2026
+
+🌐 Website  
+https://karlhe2002.github.io
