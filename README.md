@@ -1,15 +1,21 @@
-👋 Hi, I'm Xunzhi He  
+<h1 align="center">Hi 👋, I'm Xunzhi He</h1>
+<p align="center">
+MS in Data Science @ Columbia University
+</p>
 
-🎓 MS in Data Science @ Columbia University  
+---
 
-🔍 Research Interests  
-- LLM Systems
-- Trustworthy AI
-- Retrieval-Augmented Generation
+🔬 **Research Interests**
 
-🚀 Projects
-- **Healthcare Policy RAG System** (KPMG Capstone)
-- **BiasFreeBench** — ICLR 2026
+- LLM Systems  
+- Trustworthy AI  
+- Retrieval-Augmented Generation  
 
-🌐 Website  
+🚀 **Projects**
+
+- Healthcare Policy RAG System (KPMG Capstone)  
+- BiasFreeBench — ICLR 2026  
+
+🌐 **Website**
+
 https://karlhe2002.github.io
