@@ -1,4 +1,4 @@
-#### 👋 Hi, I'm Xunzhi (Karl) He
+### 👋 Hi, I'm Xunzhi (Karl) He
 
 MS in Data Science @ Columbia University  
 BS in Computer Science @ UC San Diego  
